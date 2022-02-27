@@ -1,0 +1,351 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The elders dreame. With the armies message or declaration to both Houses of Parliament.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84094</idno>
+            <idno type="STC">Wing E330</idno>
+            <idno type="STC">Thomason E405_20</idno>
+            <idno type="STC">ESTC R201890</idno>
+            <idno type="EEBO-CITATION">99862376</idno>
+            <idno type="PROQUEST">99862376</idno>
+            <idno type="VID">114533</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84094)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114533)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 64:E405[20])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The elders dreame. With the armies message or declaration to both Houses of Parliament.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare. 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>In verse.</note>
+                  <note>Annotation on Thomason copy: "Sept 3d".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114533:1" rendition="simple:additions"/>
+            <p>THE ELDERS DREAME. WITH THE ARMIES Meſſage or Declarati<g ref="char:EOLhyphen"/>on to both Houſes of Parliament.</p>
+            <p>Printed in the Yeare. 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:114533:2"/>
+            <pb n="1" facs="tcp:114533:2"/>
+            <head>The Elders Dreame.</head>
+            <lg>
+               <l>WHen <hi>Phoebus</hi> had withdrawn his Glittering light,</l>
+               <l>And all the world was muffled up in night:</l>
+               <l>A reverend Elder lying in his bed,</l>
+               <l>Legions of idle fanſies ſtormed his head;</l>
+               <l>Making aſſault upon his giddy braine,</l>
+               <l>Which he ſtrove to repell, but all in vaine;</l>
+               <l>His conſcience pleading guiltineſſe within,</l>
+               <l>Weakened each faculty till they got in:</l>
+               <l>Then to his apprehenſiou did appeare</l>
+               <l>Sad apparitions uſhered with diſpaire,</l>
+               <l>Cruell apparitions with proud uſurpation,</l>
+               <l>The Kingdomes Fate, and Churches deſolation:</l>
+               <l>Foule errour like a Gangrine doth ſpread,</l>
+               <l>Infecting all almoſt from foot to head,</l>
+               <l>Makes way for Atheiſme, and infidelity,</l>
+               <l>Warranted by proud changes mutability.</l>
+               <l>Diſtruſt and doubt come bringing up the reare,</l>
+               <l>Whoſe lookes much frighted this poore Presbytere.</l>
+               <l>Rebellion as the ſinne of witchcraft is,</l>
+               <l>Who like an ugly hag accoſt him this.</l>
+               <l>Proud Presbyter, I on thy breſt muſt ride;</l>
+               <l>Whereat this affrighted Elder vainly try'd,</l>
+               <pb n="2" facs="tcp:114533:3"/>
+               <l>Helpe houſe of Commons, helpe oh houſe of Peeres,</l>
+               <l>To free me from rebellious guilty feares.</l>
+               <l>With that the King ſtept in, and did demand</l>
+               <l>His Crowne and Seepter that ſhould ſway the Land,</l>
+               <l>Saying they were diſcourteous, to bereave him</l>
+               <l>Of thoſe juſt Titles which the heavens gave him.</l>
+               <l>The Queene and royall Iſſue came together,</l>
+               <l>She clairnes a Husband, they demand a Father:</l>
+               <l>She askes a reparation of her honour<g ref="char:punc">▪</g>
+               </l>
+               <l>Whilſt he affrighted, ſtrangely gaz'd upon her.</l>
+               <l>The Biſhops and the Clergy did appeare,</l>
+               <l>Who threaten'd this dreſſed Presbytere</l>
+               <l>With an account which one day muſt be given,</l>
+               <l>If not to <hi>Charles,</hi> yet to the King of heaven.</l>
+               <l>Nor was this menacing Meſſage only ſent</l>
+               <l>To him alone, but to the Parliament,</l>
+               <l>Whoſe actions patroniſe much horrid ſin,</l>
+               <l>With that Lord <hi>Straffords</hi> ghoſt come frowning in,</l>
+               <l>Requiring juſtice to revenge his blood,</l>
+               <l>The which the Lords and Commons muſt make good:</l>
+               <l>If eye muſt eye, and tooth muſt tooth ſupply</l>
+               <l>Why ſhould not they want heads as well as I:</l>
+               <l>Such guiltleſſe blood muſt once avenged be</l>
+               <l>On them or theirs, who ſhed it wilfully,</l>
+               <l>But ere he ended had his tragick tale,</l>
+               <l>Skips in a gentle ſoule with viſſage pale;</l>
+               <l>'Twas <hi>Canterburie</hi>'s Ghoſt, who once did ſeed</l>
+               <l>A graceleſſe flock, which made his heart to bleed;</l>
+               <l>A late made martyr by the Parliament,</l>
+               <l>Whoſe cryes for revenge to the heav'ns were ſent,</l>
+               <l>Pleading for juſtice, yet e're he had done,</l>
+               <l>Steps in old <hi>Hotham</hi> and his murthered ſonne.</l>
+               <l>Sir <hi>Alexander Cary</hi> likewiſe came,</l>
+               <l>Who much did his diſcourteous Judges blame,</l>
+               <l>Who would not adde a few dayes to his life,</l>
+               <l>At the requeſt of ſuch a vertuous wife.</l>
+               <pb n="3" facs="tcp:114533:3"/>
+               <l>Who beg'd him, till <hi>Lucina</hi> brought to light</l>
+               <l>Her timely birth whereat ſhe tooke a fright,</l>
+               <l>Seeing her poore requeſt by them deni'd,</l>
+               <l>To meet her love in ſpight of pitty died.</l>
+               <l>
+                  <hi>Tomkins</hi> and <hi>Chaſſiner,</hi> who long before</l>
+               <l>Receiv'd their doome, came in, and many more:</l>
+               <l>
+                  <hi>Bucher</hi> and <hi>Yeomans,</hi> though at <hi>Briſt<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ll</hi> they</l>
+               <l>Were executed, doe expect a day</l>
+               <l>Of retribution, <hi>England</hi> cannot hide</l>
+               <l>Her blood, till it with blood be pacifi'd</l>
+               <l>A thouſand wandring ſoules did likewiſe come,</l>
+               <l>Which could not paſſe to the Elizium,</l>
+               <l>Becauſe inforced by the Parliament</l>
+               <l>To take a moſt abhorrid Covenant.</l>
+               <l>He heard moſt heavy diſmall ſighes and grones,</l>
+               <l>Breathed out before a crue of walking bones</l>
+               <l>which wanted fleſh<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, for they have ſtarved bin,</l>
+               <l>Their eyes were hollow, cheeks look'd pale and thin.</l>
+               <l>Theſe have bin clothed in Skarlet, and have fed</l>
+               <l>At bounties table which are famiſhed,</l>
+               <l>Not having food or rayment to ſupply</l>
+               <l>Their wants 'mongſt whom the young Lo. <hi>Dochrey</hi>
+               </l>
+               <l>Bewailes his fate ſith from poore <hi>Ireland</hi> they</l>
+               <l>For ſafety fled to find this uncouth way</l>
+               <l>To meet their deſtiny, whoſe bleeding veines</l>
+               <l>Shall ſpot the Cities Armes with progins ſtaines,</l>
+               <l>That ſo to after Ages may be knowne</l>
+               <l>What truthleſſe <hi>Peter Sonzous</hi> zeale hath ſhowne.</l>
+               <l>God did the Iriſh cruelty prevent.</l>
+               <l>To heap their blood upon the Parliament.</l>
+               <l>How doe the Widowes and the fatherleſſe,</l>
+               <l>Wait at the Commons doore without redreſſe,</l>
+               <l>Who loſt their friends and fortunes for their ſake,</l>
+               <l>Which now on them but little pitty take.</l>
+               <l>What one good act have they this ſix yeares done,</l>
+               <l>If any, let them ſhew is, ſo<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e ſaies none.</l>
+               <pb n="4" facs="tcp:114533:4"/>
+               <l>But e're this ſleeping Elder could awake,</l>
+               <l>He ſaw the Independent Army ſhake;</l>
+               <l>A pow'rfull rod, which vext his ſpirits more</l>
+               <l>Then all their ſuperſtitions ſeem'd before.</l>
+               <l>He feares they are appointed for a ſcourge,</l>
+               <l>Which will the Elders of their Jewes eares purge.</l>
+               <l>He ſaw the City taken by their pow're,</l>
+               <l>And every horſe taile a conquerour<g ref="char:punc">▪</g>
+               </l>
+               <l>Adorn'd with bays, for which poore <hi>London</hi> loſt</l>
+               <l>Their Charter, but may find it to their coſt.</l>
+               <l>The Night-mare left him, he with joy up ſtarted,</l>
+               <l>Reſolved with himſelfe to be converted.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="poem">
+            <pb n="5" facs="tcp:114533:4"/>
+            <head>The Armies Meſſage or Declaration to both Houſes of Parliament.</head>
+            <lg>
+               <l>TO you who <hi>Phaiton</hi>-like aſpire,</l>
+               <l>To guide the Sunne, till earth you fire;</l>
+               <l>The Army ſendeth greeting plaine,</l>
+               <l>You muſt ſurrender <hi>Charles</hi> his waine.</l>
+            </lg>
+            <lg>
+               <l>You call us ſervants, but ſhall ſee</l>
+               <l>We ſhortly will your maſters bee:</l>
+               <l>Nor ſhall you longer voting ſit,</l>
+               <l>Tenour wiſe Generall thinkes fit.</l>
+            </lg>
+            <lg>
+               <l>What baſe aſperſions have you throwne</l>
+               <l>On us which have the buſineſſe done:</l>
+               <l>Was it not we who conqur'd all,</l>
+               <l>Which now you Independents call.</l>
+            </lg>
+            <lg>
+               <l>And 'tis not long ſince this opinion</l>
+               <l>Wa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> voted downe by your chiefe minion</l>
+               <l>Prou'd Presbyter that ſaucy jack,</l>
+               <l>Who weares his orders at his back.</l>
+            </lg>
+            <lg>
+               <l>You learned Senate for their glory</l>
+               <l>Compos'd a reverend Directory:</l>
+               <l>They ſate ſix yeares e're they could be</l>
+               <l>Reſolv'd which way to worſhip three.</l>
+            </lg>
+            <lg>
+               <l>Let all be ſatisfied in mind</l>
+               <l>As they in conſcience are inclin'd;</l>
+               <l>Who is conſtraind, and hath not bin</l>
+               <l>Reſolv'd, but doubts remaines in ſin.</l>
+            </lg>
+            <lg>
+               <l>It was not <hi>Waller Maſſie, Poyntz,</hi>
+               </l>
+               <l>Who put an end to theſe ſad times,</l>
+               <pb n="6" facs="tcp:114533:5"/>
+               <l>Nor yet your holy brother Sco<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</l>
+               <l>That could have wonne what we have got.</l>
+            </lg>
+            <lg>
+               <l>Yet they were pai'd, whilſt we may ſtand</l>
+               <l>Like your poore ſuppliants, to demand</l>
+               <l>Thoſe juſt arreares, the which are due</l>
+               <l>From ſuch ill pay-maſters as you.</l>
+            </lg>
+            <lg>
+               <l>You ſay we keepe the King to ſhow</l>
+               <l>Him like a Popet, but ſhall know</l>
+               <l>We<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>le fix him ſhortly on his Seat,</l>
+               <l>Where he your purpoſe will defeat.</l>
+            </lg>
+            <lg>
+               <l>Was it not we who did maintaine</l>
+               <l>Your honours, who like Kings doe raigne,</l>
+               <l>And ſhould we not protect you yet,</l>
+               <l>You could not long in ſafety ſit.</l>
+            </lg>
+            <lg>
+               <l>Your baſe Exciſe-men, and Committee,</l>
+               <l>Which hath undone both Towne and City</l>
+               <l>Have made ſuch holes in your gay coats,</l>
+               <l>The which perhaps may cut your th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s.</l>
+            </lg>
+            <lg>
+               <l>Then ſend us Money, or be ſure</l>
+               <l>Your greatneſſe ſhall not long endure;</l>
+               <l>Who now like candles-ſhine we doubt</l>
+               <l>Will blaze, and ſtinke, and ſo goe out.</l>
+            </lg>
+            <lg>
+               <l>But if you meane to live at eaſe,</l>
+               <l>Then run away and croſſe the Seas,</l>
+               <l>VVhere ſome of your conſorts are gone,</l>
+               <l>Be wiſe, and doe as they have done.</l>
+            </lg>
+            <lg>
+               <l>And doe not ſtay to give account</l>
+               <l>Of thoſe vile actions, which will mount</l>
+               <l>To ſuch a reckoning, and may riſe</l>
+               <l>Your heads like <hi>Hamons</hi> to the skies<g ref="char:punc">▪</g>
+               </l>
+            </lg>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
